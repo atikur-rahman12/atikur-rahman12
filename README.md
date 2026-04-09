@@ -14,6 +14,8 @@
 <p align="center">
   I am a passionate **Frontend Developer** with a strong focus on **React, JavaScript, <br /> and modern web technologies**. I love building **interactive and responsive web apps** <br /> that combine clean code with great user experience.  
 
+<hr />
+
 ### 🛠 Skills
 - **Frontend:** React, JSX, HTML5, CSS3, TailwindCSS  
 - **Tools & Platforms:** Git, GitHub, VS Code, JSON APIs  
