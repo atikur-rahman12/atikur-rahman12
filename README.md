@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Atikur Rahman</h1>
-<h3 align="center">Turning ideas into real-world web applications.</h3>
+![](https://komarev.com/ghpvc/?username=Nur-Adnan&style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atikur-rahman12&label=Profile%20views&color=0e75b6&style=flat" alt="atikur-rahman12" /> </p>
+<img align=”right” alt=”Coding” width=”400” src="./nur_adnan.png"/>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Atikur+Rahman....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikur-rahman12" alt="atikur-rahman12" /></a> </p>
 
