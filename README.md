@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=atikur-rahman12&style=for-the-badge)
 
 
-<img align=”right” alt=”Coding” width=”400” src="./banner.png"/>
+<img align=”right” alt=”Coding” width=”400” src="./Banner.png"/>
 
 
 <h1 align="center">
