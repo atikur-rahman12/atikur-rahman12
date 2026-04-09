@@ -16,6 +16,8 @@
 
 <hr />
 
+<img align="right" height="250" width="365" alt="" src="./gifs/10_coding_dribbble.gif" />
+
 ### 🛠 Skills
 - **Frontend:** React, JSX, HTML5, CSS3, TailwindCSS  
 - **Tools & Platforms:** Git, GitHub, VS Code, JSON APIs  
