@@ -1,7 +1,21 @@
 ![](https://komarev.com/ghpvc/?username=atikur-rahman12&style=for-the-badge)
 
 
-<img align=”right” alt=”Coding” width=”400” src="./Banner.png"/>
+<img align=”right” alt=”Banner” width=”400” src="./Banner.png"/>
+
+
+<p align="center">
+  I am a passionate **Frontend Developer** with a strong focus on **React, JavaScript, and modern web technologies**. I love building **interactive and responsive web apps** that combine clean code with great user experience.  
+
+### 🛠 Skills
+- **Frontend:** React, JSX, HTML5, CSS3, TailwindCSS  
+- **Tools & Platforms:** Git, GitHub, VS Code, JSON APIs  
+- **Other Interests:** UI/UX design, performance optimization, coding challenges  
+
+### 🌱 Currently Learning
+- Advanced React patterns & state management  
+- Full-stack development with Node.js  
+</p>
 
 
 <h1 align="center">
