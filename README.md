@@ -4,8 +4,15 @@
 <img align=”right” alt=”Banner” width=”400” src="./Banner.png"/>
 
 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Atikur+Rahman....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <p align="center">
-  I am a passionate **Frontend Developer** with a strong focus on **React, JavaScript, and modern web technologies**. I love building **interactive and responsive web apps** that combine clean code with great user experience.  
+  I am a passionate **Frontend Developer** with a strong focus on **React, JavaScript, and modern web technologies**. <br /> I love building **interactive and responsive web apps** that combine clean code with great user experience.  
 
 ### 🛠 Skills
 - **Frontend:** React, JSX, HTML5, CSS3, TailwindCSS  
@@ -17,12 +24,6 @@
 - Full-stack development with Node.js  
 </p>
 
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Atikur+Rahman....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikur-rahman12" alt="atikur-rahman12" /></a> </p>
 
