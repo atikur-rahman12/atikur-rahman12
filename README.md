@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  I am a passionate **Frontend Developer** with a strong focus on **React, JavaScript, and modern web technologies**. <br /> I love building **interactive and responsive web apps** that combine clean code with great user experience.  
+  I am a passionate **Frontend Developer** with a strong focus on **React, <br /> JavaScript, and modern web technologies**. <br /> I love building **interactive and responsive web apps** <br /> that combine clean code with great user experience.  
 
 ### 🛠 Skills
 - **Frontend:** React, JSX, HTML5, CSS3, TailwindCSS  
