@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=atikur-rahman12&style=for-the-badge)
 
 
+<img align=”right” alt=”Coding” width=”400” src="./banner.png"/>
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Atikur+Rahman....;Nice+to+meet+you!&center=true&size=30">
