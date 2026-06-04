@@ -16,13 +16,11 @@
 
 <hr />
 
-## 🚀 Portfolio
+## 🌐 Live Demo
 
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img width="1659" height="872" alt="protfolio" src="https://github.com/user-attachments/assets/afd27cf7-db5e-4a05-a1b3-90a71ce900b0" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+
+🔗 https://your-portfolio-link.com
 
 <hr />
 
