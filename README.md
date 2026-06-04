@@ -37,8 +37,6 @@
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikur-rahman12" alt="atikur-rahman12" /></a> </p>
-
 * 🔭 I’m currently building **HireLoop — a modern job portal platform connecting recruiters and job seekers.**
 
 * 🌱 I’m currently learning **Next.js, TypeScript, System Design, and scalable full-stack development.**
