@@ -39,17 +39,22 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atikur-rahman12" alt="atikur-rahman12" /></a> </p>
 
-- 🔭 I’m currently working on [DigiTools](#)
+* 🔭 I’m currently building **HireLoop — a modern job portal platform connecting recruiters and job seekers.**
 
-- 🌱 I’m currently learning **🚀 React, APIs and modern UI design.**
+* 🌱 I’m currently learning **Next.js, TypeScript, System Design, and scalable full-stack development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/atikur-rahman12](https://github.com/atikur-rahman12)
+* 👨‍💻 Explore all of my projects at **https://github.com/atikur-rahman12**
 
-- 💬 Ask me about **🚀 React**
+* 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Tailwind CSS, and Full-Stack Development**
 
-- 📫 How to reach me **atikur.an638@gmail.com**
+* 📫 Reach me at **[md.atikur.dev@gmail.com](mailto:md.atikur.dev@gmail.com)**
 
-- 📄 Know about my experiences [https://atikurrahman-dev.netlify.app/resume](https://atikurrahman-dev.netlify.app/resume)
+* 🌐 Portfolio: **https://atikur-rahman-protfolio.vercel.app**
+
+* 📄 Resume: **https://atikurrahman-dev.netlify.app/resume**
+
+* ⚡ Fun fact: **I enjoy building real-world web applications and turning ideas into products.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -57,11 +62,6 @@
 <a href="https://fb.com/atikur.rahman206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atikur.rahman206" height="30" width="40" /></a>
 <a href="https://instagram.com/atikur_143_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atikur_143_" height="30" width="40" /></a>
 </p>
-
-<hr />
-
-<h2 align="left">My Protfolio:</h2>
-https://my-protfolio-six-rose.vercel.app/
 
 <hr />
 
