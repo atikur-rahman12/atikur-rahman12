@@ -62,13 +62,21 @@ I love learning new technologies and solving real-world problems through code.</
 - Practicing Data Structures & Problem Solving
 
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"> </a>
+<p align="center">
+  <a href="https://github.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-<a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"> </a>
+  <a href="https://linkedin.com/in/atik12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<a href="https://twitter.com/yourprofile"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"> </a> </p>
+  <a href="https://fb.com/atikur.rahman206" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
