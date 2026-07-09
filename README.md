@@ -82,20 +82,13 @@ I love learning new technologies and solving real-world problems through code.</
 
 <hr />
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+## 📊 GitHub Stats
 
-<div align="center">
-  <code><img title="Javascript" height="25" src="./javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="./problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="./html5.svg"></code>
-  <code><img title="CSS" height="25" src="./css.svg"></code>
-  <code><img title="React" height="25" src="./react-original.svg"></code>
-  <code><img title="Git" height="25" src="./git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="./vscode.png"></code>
-  <code><img title="JSON" height="25" src="./json.svg"></code>
-  <code><img title="GitHub" height="25" src="./github.svg"></code>
-  <code><img title="npm" height="25" src="./npm.svg"></code>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 <hr />
 
