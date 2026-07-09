@@ -34,27 +34,11 @@ I love learning new technologies and solving real-world problems through code.</
 - **Tools & Platforms:** Git, GitHub, VS Code, JSON APIs  
 - **Other Interests:** UI/UX design, performance optimization, coding challenges  
 
-### 🌱 Currently Learning
-- Advanced React patterns & state management  
-- Full-stack development with Node.js  
-</p>
-
-
-* 🔭 I’m currently building **HireLoop — a modern job portal platform connecting recruiters and job seekers.**
-
-* 🌱 I’m currently learning **Next.js, TypeScript, System Design, and scalable full-stack development.**
-
-* 👨‍💻 Explore all of my projects at **https://github.com/atikur-rahman12**
-
-* 💬 Ask me about **React, Next.js, JavaScript, TypeScript, Tailwind CSS, and Full-Stack Development**
-
-* 📫 Reach me at **[md.atikur.dev@gmail.com](mailto:md.atikur.dev@gmail.com)**
-
-* 🌐 Portfolio: **https://atikur-rahman-protfolio.vercel.app**
-
-* 📄 Resume: **https://atikurrahman-dev.netlify.app/resume**
-
-* ⚡ Fun fact: **I enjoy building real-world web applications and turning ideas into products.**
+### 🔭 Current Activities
+- Developing a Student Management Platform
+- Building Full Stack MERN Applications
+- Server-side Rendering & App Router in Next.js
+- Practicing Data Structures & Problem Solving
 
 
 <h3 align="left">Connect with me:</h3>
