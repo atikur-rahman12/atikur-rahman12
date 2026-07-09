@@ -61,11 +61,13 @@ I love learning new technologies and solving real-world problems through code.</
 - Server-side Rendering & App Router in Next.js
 - Practicing Data Structures & Problem Solving
 
+<hr />
+
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/atikur-rahman12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
@@ -76,13 +78,6 @@ I love learning new technologies and solving real-world problems through code.</
   <a href="https://fb.com/atikur.rahman206" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/atik12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atik12" height="30" width="40" /></a>
-<a href="https://fb.com/atikur.rahman206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atikur.rahman206" height="30" width="40" /></a>
-<a href="https://instagram.com/atikur_143_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atikur_143_" height="30" width="40" /></a>
 </p>
 
 <hr />
