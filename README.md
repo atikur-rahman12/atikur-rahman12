@@ -11,13 +11,13 @@
   </a>
 </h1>
 
-🚀 About Me -- 
+🚀 About Me 
 
-<p>💼 Full Stack Web Developer from Bangladesh</p>
-🌱 Currently exploring advanced features of Next.js and TypeScript
-💻 Building scalable MERN Stack applications
-🎯 Interested in Clean Code, Performance Optimization, and Modern UI/UX
-📚 Always learning and improving my development skills
+<p>💼 Full Stack Web Developer from Bangladesh.
+🌱 Currently exploring advanced features of Next.js and TypeScript.
+💻 Building scalable MERN Stack applications.
+🎯 Interested in Clean Code, Performance Optimization, and Modern UI/UX.
+📚 Always learning and improving my development skills.</p>
 
 <hr />
 
