@@ -29,10 +29,26 @@ I love learning new technologies and solving real-world problems through code.</
 
 <img align="right" height="250" width="365" alt="Error" src="./Programming Computer.gif" />
 
-### 🛠 Skills
-- **Frontend:** React, JSX, HTML5, CSS3, TailwindCSS  
-- **Tools & Platforms:** Git, GitHub, VS Code, JSON APIs  
-- **Other Interests:** UI/UX design, performance optimization, coding challenges  
+## 💻 Skills
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
 
 ### 🔭 Current Activities
 - Developing a Student Management Platform
