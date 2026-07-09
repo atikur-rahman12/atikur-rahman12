@@ -13,9 +13,7 @@
 
 🚀 About Me 
 
-<p>I am a passionate Full Stack Developer from Bangladesh.
-I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, and MongoDB.
-I love learning new technologies and solving real-world problems through code.</p>
+<p>I'm a Full Stack Developer from Bangladesh with experience building modern, scalable, and responsive web applications using React, Next.js, Node.js, Express.js, and MongoDB. I enjoy solving real-world problems, writing clean code, and continuously learning new technologies.</p>
 
 <hr />
 
