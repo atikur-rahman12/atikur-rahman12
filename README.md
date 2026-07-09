@@ -82,16 +82,6 @@ I love learning new technologies and solving real-world problems through code.</
 
 <hr />
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-<hr />
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/atik206"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/atik206" /></a></p><br><br>
 
