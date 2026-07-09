@@ -31,24 +31,35 @@ I love learning new technologies and solving real-world problems through code.</
 
 ## 💻 Skills
 
-### Frontend
+### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 </p>
 
-### Backend
+### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,json" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-### Tools
+### 🔐 Authentication & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth,jwt,restapi,stripe" />
 </p>
 
+### 🎨 UI & Animation
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=heroui,framermotion" />
+</p>
+
+### 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+</p>
 
 ### 🔭 Current Activities
 - Developing a Student Management Platform
