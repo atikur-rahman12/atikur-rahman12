@@ -34,13 +34,13 @@ I love learning new technologies and solving real-world problems through code.</
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,json" />
 </p>
 
 ### Tools
