@@ -46,13 +46,7 @@ I love learning new technologies and solving real-world problems through code.</
 ### 🔐 Authentication & APIs
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth,jwt,restapi,stripe" />
-</p>
-
-### 🎨 UI & Animation
-
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=heroui,framermotion" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=betterauth,jwt,stripe" />
 </p>
 
 ### 🛠 Tools & Platforms
