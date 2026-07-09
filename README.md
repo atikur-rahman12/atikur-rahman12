@@ -11,8 +11,9 @@
   </a>
 </h1>
 
-<p align="center">
-  I am a passionate **Frontend Developer** with a strong focus on **React, JavaScript, <br /> and modern web technologies**. I love building **interactive and responsive web apps** <br /> that combine clean code with great user experience.  
+I am a passionate Full Stack Developer from Bangladesh.
+I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, and MongoDB.
+I love learning new technologies and solving real-world problems through code.
 
 <hr />
 
