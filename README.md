@@ -13,11 +13,9 @@
 
 🚀 About Me 
 
-<p>💼 Full Stack Web Developer from Bangladesh.
-🌱 Currently exploring advanced features of Next.js and TypeScript.
-💻 Building scalable MERN Stack applications.
-🎯 Interested in Clean Code, Performance Optimization, and Modern UI/UX.
-📚 Always learning and improving my development skills.</p>
+<p>I am a passionate Full Stack Developer from Bangladesh.
+I enjoy building modern, responsive, and scalable web applications using React, Next.js, Node.js, and MongoDB.
+I love learning new technologies and solving real-world problems through code.</p>
 
 <hr />
 
